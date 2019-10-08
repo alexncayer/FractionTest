@@ -1,3 +1,4 @@
+package accsc250p7work;
 
 /*
  * f1 = Fraction(1,2)
